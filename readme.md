@@ -14,7 +14,7 @@ Integration of Django with MongoDB using PyMongo later implement REST API to tal
 - `cd <project-name>`  (access the dir to start working)
 - Create a virtual environment by typing `python -m venv <environment-name>`
 - Activate the `environment` by typing `venv\scripts\activate`. You'll see `(environment-name)` written in before the path in **cmd**.
-- After activating the `environment`, install the [`requirements.txt`](https://github.com/pixincreate/pymojango-integration/blob/main/requirements.txt) by typing `pip install -r requirements.txt`.
+- After activating the `environment`, install the [`requirements.txt`](https://github.com/pixincreate/framework-pymojango/blob/main/requirements.txt) by typing `pip install -r requirements.txt`.
 - `python manage.py startapp <app-name>`  (create an app)
 - `type nul> utils.py` (make sure that `utils.py` file exists where `manage.py` exist)
 - `type nul> readme.md` (to keep a documentation of what you're doing)
