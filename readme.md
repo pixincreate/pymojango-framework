@@ -4,7 +4,7 @@ Integration of Django with MongoDB using PyMongo later implement REST API to tal
 ## Pre-requisites:
 - command-prompt
 - [python 3.6 or later](https://www.python.org/downloads/)
-- An IDE(PyCharm preferred)
+- An IDE (PyCharm preferred)
 - Patience
 
 ## Getting-Started:
@@ -19,7 +19,22 @@ Integration of Django with MongoDB using PyMongo later implement REST API to tal
 - `type nul> utils.py` (make sure that `utils.py` file exists where `manage.py` exist)
 - `type nul> readme.md` (to keep a documentation of what you're doing)
 - `git init`  (initialise git repo)
-
+- Put the following commands to set-up a git-repo on GitHub (in case the repo doesn't exist in prior)
+  ```commandline
+    echo "# <repo-name>" >> README.md           :: Creted a readme.md file with repo-name in 1st line.
+    git init
+    git add README.md                           :: Tracks the file
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/<user-name>>/<git-repo-name>.git
+    git push -u origin main                     :: Pushes the commits to repo
+    ``` 
+- Put the following commands to push to git-repo on GitHub (in case the repo does exist in prior)
+    ```commandline
+    git remote add origin https://github.com/pixincreate/blah.git
+    git branch -M main
+    git push -u origin main                     :: Pushes the commits to repo
+    ```
 
 ## Current Project Structure:
 ```
