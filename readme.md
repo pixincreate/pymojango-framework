@@ -62,7 +62,6 @@ Integration of Django with MongoDB using PyMongo later implement REST API to tal
 |   └ user_inputs.py
 ├ test [dir]
 |   └ this_code_here_works.py
-├ venv [dir]
 ├ .gitignore
 ├ LICENSE
 ├ manage.py
