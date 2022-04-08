@@ -9,7 +9,7 @@ Integration of Django with MongoDB using PyMongo later implement REST API to tal
 
 ## Getting-Started:
 - Open Command-Prompt by typing CMD on **RUN**(Win_Key + R) or in your preferred dir.
-- `mkdir <folder-name>`  (give a folder-name and this is optional)
+- `mkdir <folder-name>`  (give a folder-name and this is optional and **not** recommended)
 - `django-admin startproject <project-name>`  (start django project)
 - `cd <project-name>`  (access the dir to start working)
 - Create a virtual environment by typing `python -m venv <environment-name>`
