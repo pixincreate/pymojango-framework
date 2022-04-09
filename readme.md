@@ -31,7 +31,7 @@ Integration of Django with MongoDB using PyMongo later implement REST API to tal
     ``` 
 - Put the following commands to push to git-repo on GitHub (in case the repo does exist in prior)
     ```commandline
-    git remote add origin https://github.com/pixincreate/blah.git
+    git remote add origin https://github.com/<user-name>>/<git-repo-name>.git
     git branch -M main
     git push -u origin main                     :: Pushes the commits to repo
     ```
