@@ -1,4 +1,4 @@
-# About: framework-pymojango
+# About: pymojango-framework
 Integration of Django with MongoDB using PyMongo later implement REST API to talk to frontend of the code.  
   
 ## Pre-requisites:
