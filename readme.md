@@ -3,7 +3,7 @@ Integration of Django with MongoDB using PyMongo later implement REST API to tal
   
 ## Pre-requisites:
 - command-prompt
-- [python 3.6 or later](https://www.python.org/downloads/)
+- [python 3.6 or later](https://www.python.org/downloads/) [Latest(3.10+) is recommended ]
 - An IDE (PyCharm preferred)
 - Patience
 
