@@ -1,4 +1,4 @@
-Django==4.0.8
+Django==4.0.9
 djangorestframework==3.13.1
 dnspython==2.1.0
 pymongo==4.0.1
